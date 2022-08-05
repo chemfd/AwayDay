@@ -1,5 +1,5 @@
 project:
   title: "AwayDay"
-
+output_dir: "docs"
 editor: visual
 

@@ -1,0 +1,74 @@
+---
+title: "Bookdown Clavertondown Quarto AwayDay"
+author: University of Bath
+toc: true
+number-section: true
+highlight-style: pygments
+format:
+  html: 
+    code-fold: true
+    html-math-method: katex
+  pdf:
+    geometry: 
+      - top=30mm
+      - left=30mm
+  docx: default
+---
+
+::: {.alert .alert-primary role="alert"}
+## Details
+
+**6th September 2022** 10 am - 4 pm
+
+University of Bath, room TBC
+
+Lunch and refreshments provided
+:::
+
+## Why Use Bookdown Clavertondown or Quarto?
+
+[Bookdown](https://bookdown.org) is a well established online book authoring platform which enabled accessible content to be generated, principally mathematics which renders using MathJax.As well as generating a .html webpage Bookdown also generates .pdf and .epub documents for offline browsing and allows the webage to be altered for browsing preferences. Bookdown mainly uses Markdown in authoring. [This is an example of Bookdown output](https://chemfd.github.io/Photochemistry_2/).
+
+[Clavertondown](https://rdrr.io/github/BathMASH/clavertondown/f/example/index.Rmd) was generated locally at the University of Bath to overcome some of the limitations of Bookdown and allow extra functionality requested by staff. It also adds additional 'alternate versions' including large print .pdf and .docx versions. Like Bookdown Clavertondown maily uses Markdown in authoring. [This is an example of ClavertonDown output](https://bathmash.github.io/clavertondown/)
+
+[Quarto](https://quarto.org) is relatively new to the online book family but allows dynamic content with a number of languages (including Python, R and Julia) and allows a broader range of outputs than Bookdown. Quarto can use Markdown but also has a WISIWIG version when writing. This document is an example of Quarto output.
+
+Fundamentally all are used to generate online books which can be hosted on VLEs or outward facing webpages and deliver content in an accessible style.
+
+## The Away Day
+
+The Away Day is aimed at both beginners, introducing them to the systems and their benefits (and weaknesses) as well as established users who just want to get some ideas of different things they could do in their *books* or different ways of doing things.
+
+The day will be split into two sessions. The morning session will be case studies of people sharing things they do from first principles of starting to use these systems to hints and tips of what people are actually doing. 
+
+### Morning Session - Case Studies already identified
+
+- An introduction to Clavertondown
+- Hosting resources on GitHub
+- Hosting resources on a VLE (Moodle)
+- Writing maths
+- Desmos - Adding interactivity when using Bookdown or Clavertondown
+- Incorporating iframes: videos, H5P, forms
+- Conditional visibility of text
+
+::: {.alert .alert-primary role="alert"}
+If you feel you would like to contribute to the case study talks please add this when you sign up (@sec-signup).
+:::
+
+### Afternoon Session
+
+The afternoon session will principally be *hands on*, putting into action some of what has inspired you in the morning but also getting to network and chat with other users.
+
+
+
+## SignUp {#sec-signup}
+
+[You can sign up here](https://teachinghub.bath.ac.uk/events/bookdown-away-day-2022/)
+
+For further details please contact:
+
+[Dr Fiona Dickinson](mailto:fd287@bath.ac.uk?subject=Bookdown%20AwayDay) or [Technology Enhanced Learning](mailto:TEL@bath.ac.uk?subject=Bookdown%20AwayDay)
+
+## Resources
+
+A selection of resources generated during the day will be shared **here** for later reference or if you cannot attend.

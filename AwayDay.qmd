@@ -29,6 +29,8 @@ Lunch and refreshments provided
 
 [Bookdown](https://bookdown.org) is a well established online book authoring platform which enabled accessible content to be generated, principally mathematics which renders using MathJax. As well as generating a .html webpage Bookdown also generates .pdf and .epub documents for offline browsing and allows the webage to be altered for browsing preferences. Bookdown mainly uses Markdown in authoring. [This is an example of Bookdown output](https://chemfd.github.io/Photochemistry_2/).
 
+[A beginners guide to making lecture notes in Bookdown](https://vickyscowcroft.github.io/bookdown_lecture_notes_guide/)
+
 [Clavertondown](https://rdrr.io/github/BathMASH/clavertondown/f/example/index.Rmd) was generated locally at the University of Bath to overcome some of the limitations of Bookdown and allow extra functionality requested by staff. It also adds additional 'alternate versions' including large print .pdf and .docx versions. Like Bookdown Clavertondown maily uses Markdown in authoring. [This is an example of ClavertonDown output](https://bathmash.github.io/clavertondown/)
 
 [Quarto](https://quarto.org) is relatively new to the online book family but allows dynamic content with a number of languages (including Python, R and Julia) and allows a broader range of outputs than Bookdown. Quarto can use Markdown but also has a WISIWIG version when writing. This document is an example of Quarto output.

@@ -41,7 +41,7 @@ Fundamentally all are used to generate online books which can be hosted on VLEs 
 
 The Away Day is aimed at both beginners, introducing them to the systems and their benefits (and weaknesses) as well as established users who just want to get some ideas of different things they could do in their *books* or different ways of doing things.
 
-The day will be split into two sessions. The morning session will be case studies of people sharing things they do from first principles of starting to use these systems to hints and tips of what people are actually doing. 
+The day will be split into two sessions. The morning session will be short case studies of people sharing things they do from first principles of starting to use these systems to hints and tips of what people are actually doing. 
 
 ### Morning Session - Case Studies already identified
 
